@@ -1,0 +1,3 @@
+model\Pessoa.class
+crud\PessoaApiController.class
+com\example\BasicApplication.class
